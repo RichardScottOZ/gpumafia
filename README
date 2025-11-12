@@ -1,3 +1,6 @@
+# DeepWiki
+- See scalability analysis https://deepwiki.com/RichardScottOZ/gpumafia/7.3-performance-tuning-guide and the rest
+
 INTRO
 
 gpumafia implements MAFIA clustering algorithm, mostly as described in the paper
